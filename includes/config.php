@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
+define('DB_HOST','127.0.0.1:52566');
+define('DB_USER','azure');
+define('DB_PASS','6#vWHD_$');
 define('DB_NAME','bbdms');
 // Establish database connection.
 try
